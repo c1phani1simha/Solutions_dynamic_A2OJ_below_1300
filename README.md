@@ -1,5 +1,5 @@
 # Solutions_dynamic_A2OJ_below_1300
-In this you can find out solutions for Dynamic A2OJ ladder problems below 1300
+In this you can find out solutions for Dynamic A2OJ ladder problems(https://a2ojj.herokuapp.com/) below 1300
 
 # Importance
 --->Many Newbies wishes to become a good competitive programmer, which requires good practice.
